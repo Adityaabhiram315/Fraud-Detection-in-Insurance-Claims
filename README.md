@@ -1,6 +1,4 @@
-Here is a suggested README for the Fraud Detection in Insurance Claims project:
 
----
 
 # Fraud Detection in Insurance Claims
 
@@ -69,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize it further to fit your specific needs!
+
